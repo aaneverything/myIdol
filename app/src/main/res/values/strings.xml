@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">MyIdol</string>
+    <string name="hero_image_description">Description of hero image</string>
+    <string name="heroes_name">Nama Anggota TWICE</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="namee">Aan Triya Vinanta</string>
+<!--    <integer name="fotoo" >@drawable/aan</integer>-->
+    <string name="nim">22114880</string>
+    <string name="email">aanvinanta5@gmail.com</string>
+    <string-array name="data_name">
+        <item>Nayeon</item>
+        <item>Jeongyeon</item>
+        <item>Momo</item>
+        <item>Sana</item>
+        <item>Jihyo</item>
+        <item>Mina</item>
+        <item>Dahyun</item>
+        <item>Chaeyoung</item>
+        <item>Tzuyu</item>
+        <item>Park Jin Young (new member)</item>
+    </string-array>
+
+    <string-array name="data_fullname">
+        <item>Im Nayeon</item>
+        <item>Yoo Jeongyeon</item>
+        <item>Hirai Momo</item>
+        <item>Minatozaki Sana</item>
+        <item>Park Jihyo</item>
+        <item>Myoi Mina</item>
+        <item>Kim Dahyun</item>
+        <item>Son Chaeyoung</item>
+        <item>Chou Tzuyu</item>
+        <item>Park Jin Young (new member)</item>
+
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Nayeon adalah lead vocalist dan face of the group. Dia dikenal karena pesona ceria dan senyumnya yang menawan, serta merupakan member tertua di TWICE.</item>
+        <item>Jeongyeon adalah lead vocalist dengan suara yang kuat dan deep. Dia juga dikenal dengan kepribadiannya yang karismatik dan perannya sebagai salah satu member yang sangat supportive dalam grup.</item>
+        <item>Momo, berasal dari Jepang, adalah main dancer dari TWICE. Gerakan tariannya yang energik dan kemampuannya dalam koreografi menjadikannya salah satu performer terbaik dalam grup.</item>
+        <item>Sana juga berasal dari Jepang dan merupakan lead vocalist. Dia sangat dikenal karena kepribadiannya yang bubbly, pesonanya yang ceria, serta senyum khasnya yang menawan.</item>
+        <item>Jihyo adalah leader dan main vocalist TWICE. Dia memiliki suara yang kuat dan emosional serta dikenal karena kepemimpinannya yang tegas dan caring terhadap anggota grup.</item>
+        <item>Mina, juga dari Jepang, adalah salah satu lead dancer grup. Dia memiliki pesona anggun dan lembut, dengan gerakan tari yang halus dan penuh keindahan.</item>
+        <item>Dahyun adalah lead rapper dan dikenal dengan ekspresi wajahnya yang unik dan lucu. Dia selalu memberikan warna dan keceriaan dalam setiap penampilannya.</item>
+        <item>Chaeyoung adalah main rapper dan juga vocalist. Dia terkenal dengan suara khasnya yang deep dan penampilannya yang edgy, serta sering terlibat dalam penulisan lirik lagu TWICE.</item>
+        <item>Tzuyu adalah member termuda (maknae) dalam grup dan berasal dari Taiwan. Dia dikenal karena kecantikan visualnya yang menawan dan sikapnya yang dewasa meskipun usianya yang paling muda.</item>
+        <item>Park Jin Young  juga dikenal sebagai J.Y. Park atau JYP, adalah seorang penyanyi, penulis lagu, penari, produser rekaman, dan pendiri JYP Entertainment, sebuah label manajemen/rekaman besar Korea Selatan</item>
+    </string-array>
+
+    <string-array name="biodata_all">
+        <item>Nama: TTL: 22 September 1995, Seoul, Korea Selatan, Posisi: Lead Vocalist, Face of the Group, Tinggi: 163 cm, Golongan Darah: A, Instagram: @nayeon_twice</item>
+        <item>Nama: TTL: 1 November 1996, Suwon, Korea Selatan, Posisi: Lead Vocalist, Tinggi: 169 cm, Golongan Darah: O, Instagram: @jeongyeon_twice</item>
+        <item>Nama: TTL: 9 November 1996, Kyoto, Jepang, Posisi: Main Dancer, Tinggi: 167 cm, Golongan Darah: A, Instagram: @momo_twice</item>
+        <item>Nama: TTL: 29 Desember 1996, Osaka, Jepang, Posisi: Lead Vocalist, Tinggi: 168 cm, Golongan Darah: B, Instagram: @sana_twice</item>
+        <item>Nama: TTL: 1 Februari 1997, Guri, Korea Selatan, Posisi: Leader, Main Vocalist, Tinggi: 162 cm, Golongan Darah: O, Instagram: @jihyo_twice</item>
+        <item>Nama: TTL: 24 Maret 1997, San Antonio, Amerika Serikat, Posisi: Lead Dancer, Tinggi: 163 cm, Golongan Darah: A, Instagram: @mina_twice</item>
+        <item>Nama: TTL: 28 Mei 1998, Seongnam, Korea Selatan, Posisi: Lead Rapper, Tinggi: 159 cm, Golongan Darah: O, Instagram: @dahyun_twice</item>
+        <item>Nama: TTL: 23 April 1999, Seoul, Korea Selatan, Posisi: Main Rapper, Vocalist, Tinggi: 163 cm, Golongan Darah: B, Instagram: @chaeyoung_twice</item>
+        <item>Nama: TTL: 14 Juni 1999, Tainan, Taiwan, Posisi: Lead Dancer, Vocalist, Visual, Maknae, Tinggi: 170 cm, Golongan Darah: A, Instagram: @tzuyu_twice</item>
+        <item>Nama: TTL: 22 Januari 1972, Seoul, Korea Selatan, Posisi: Founder, CEO JYP Entertainment, Instagram: @asiansoul_jyp</item>
+    </string-array>
+
+
+    <integer-array name="data_photo">
+        <item>@drawable/nayeon</item>
+        <item>@drawable/jeongyeon</item>
+        <item>@drawable/momo</item>
+        <item>@drawable/sana</item>
+        <item>@drawable/jihyo</item>
+        <item>@drawable/mina</item>
+        <item>@drawable/dahyun</item>
+        <item>@drawable/chaeyoung</item>
+        <item>@drawable/tzuyu</item>
+        <item>@drawable/jyp</item>
+    </integer-array>
+
+</resources>
